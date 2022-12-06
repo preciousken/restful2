@@ -33,7 +33,7 @@ const connectDB = async () =>{
 
 // ////
 app.get("/",(req,res)=>{
-  res.send('Welcome to main route')
+  res.send('Welcome to main route kinkycoilygirls')
 })
 // ////
 
